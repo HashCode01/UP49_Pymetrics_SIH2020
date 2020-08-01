@@ -1,0 +1,14 @@
+[
+    {
+        "name": "x",
+        "type": "float",
+        "lower": 1,
+        "upper": 100
+    },
+    {
+        "name": "y",
+        "type": "float",
+        "lower": -398,
+        "upper": 3
+    }
+]

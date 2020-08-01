@@ -1,0 +1,26 @@
+[
+    {
+        "name": "adam_lr",
+        "type": "float",
+        "lower": 1e-5,
+        "upper": 1e-3
+    },
+    {
+        "name": "forcal_gamma",
+        "type": "float",
+        "lower": 2,
+        "upper": 3
+    },
+    {
+        "name": "forcal_alpha",
+        "type": "float",
+        "lower": 0.9,
+        "upper": 0.9999
+    },
+    {
+        "name": "run_epochs",
+        "type": "int",
+        "lower": 20,
+        "upper": 60
+    }
+]
