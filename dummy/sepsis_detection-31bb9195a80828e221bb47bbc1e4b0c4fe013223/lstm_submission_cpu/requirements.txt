@@ -1,0 +1,13 @@
+# file: dependencies.txt
+#
+# This file lists additional Debian packages that must be installed
+# prior to running your entry's 'setup.sh' and 'next.sh' scripts.
+# Each package must be on a separate line.
+
+scikit-learn
+numpy
+scipy
+pandas
+tensorflow==1.12.0
+keras==2.1.3
+git+https://www.github.com/keras-team/keras-contrib.git
