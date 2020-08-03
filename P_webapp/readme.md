@@ -41,6 +41,7 @@ The Web App consists of 2 components:
 
 
 **How To Run**
+
 Clone the repository. Change the Folder path to your system paths.Install Streamlit and you are ready to go.
 
 Preview
