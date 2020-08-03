@@ -14,7 +14,7 @@ To check out the code, please clone the repository into your workspace and
 import the project using flutter or android studio. *​Make use you use your local
 gradle to build the source code.*
 
-The Source folder consists of 2 components:
+The Web App consists of 2 components:
 
 1.  Docter's Dashboard
 
@@ -39,6 +39,9 @@ The Source folder consists of 2 components:
 
 ![](src/ss10.png)
 
+
+**How To Run**
+Clone the repository. Change the Folder path to your system paths.Install Streamlit and you are ready to go.
 
 Preview
 =======
