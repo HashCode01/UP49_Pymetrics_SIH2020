@@ -25,13 +25,19 @@ The Source folder consists of 2 components:
 
 **Docter's Dashboard:**
 
-![](media/dd9a899b82426d901a610eebca2f5795.png)
+![](src/ss1.png)
 
-![](media/89ee19fc1d8adce559aab3dc5ac24a3b.png)
+![](src/ss2.png)
 
-C**Patients Dashboard:**
+![](src/ss3.png)
 
-![](media/c38e82bd60320492f0f60a3f973d4d3e.png)
+**Patients Dashboard:**
+
+![](src/ss7.png)
+
+![](src/ss8.png)
+
+![](src/ss10.png)
 
 
 Preview
