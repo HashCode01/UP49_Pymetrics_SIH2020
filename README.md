@@ -3,7 +3,9 @@ GEHC-SepsisChallengeSIH 2020
 
 The repository contains the code for our submission (Team Name: Pymetrics) to the GEHC-SepsisChallengeSIH 2020. The code has not been edited since the final submission and as such is a little untidy, we will be working on making the codebase more userfriendly in future, please excuse the current mess!
 
+**Docter's Dashboard:**
 
+![](P_webapp/src/Pymetrics_logo_t-01.png)
 
 Getting Started
 ---------------
