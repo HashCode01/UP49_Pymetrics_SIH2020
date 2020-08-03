@@ -1,3 +1,6 @@
+Pymertics Web Application
+-------------------------
+
 Pymetrics uses Streamlit app framework​ that enable Streamlit web apps to use its 
 Rapidly build the tools you need. This semantic search engine and model comparison 
 tool was built from scratch with only 23 Streamlit function calls. . You can follow 
