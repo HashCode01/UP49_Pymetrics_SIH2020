@@ -5,7 +5,7 @@ The repository contains the code for our submission (Team Name: Pymetrics) to th
 
 **Docter's Dashboard:**
 
-![](P_webapp/src/py_lg-01.png | width=500)
+![](P_webapp/src/py_lg-01.png)
 
 Getting Started
 ---------------
